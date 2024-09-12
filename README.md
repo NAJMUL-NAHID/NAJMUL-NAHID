@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email me at nahidmulla777777@gmail.com
 - 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am noob
+- I know  HTML, C ,C++, JAVA,* 
 
 <!---
 NAJMUL-NAHID/NAJMUL-NAHID is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
