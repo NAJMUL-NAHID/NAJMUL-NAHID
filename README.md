@@ -2,7 +2,8 @@
 
 👀 I’m interested in learning new technologies and expanding my skill set.
 
-🌱 I’m currently learning Data Structures and Algorithms (DSA) and Object-Oriented Programming (OOP).
+🌱 I’m learned Data Structures and Algorithms (DSA) and Object-Oriented Programming (OOP).
+  now i am doing cp .my goal is to be an expert in codeforces this year
 
 💞️ I’m looking to collaborate on exciting projects and open-source contributions.
 
