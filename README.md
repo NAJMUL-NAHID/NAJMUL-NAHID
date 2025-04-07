@@ -19,6 +19,7 @@
 - ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
 - ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
 - ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
+- ![Python](https://img.icons8.com/color/48/000000/python.png) Python
 
 ### Education
 - Currently studying Computer Science and Engineering at RUET (Rajshahi University of Engineering & Technology)
